@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to ABC Bank Loans - Developer API"
+  contactDetails:
+    name: "Vedant - Developer"
+    email: "vk@gmail.com"
+  onCallSupport:
+    - 99999999
+    - 88888888

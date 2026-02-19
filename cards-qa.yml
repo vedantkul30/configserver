@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to ABC Bank Cards - QA APIs"
+  contactDetails:
+    name: "Atharva - QA lead"
+    email: "ak@gmail.com"
+  onCallSupport:
+    - 99999998
+    - 88888889

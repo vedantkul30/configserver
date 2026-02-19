@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to ABC Bank Loans - Prod API"
+  contactDetails:
+    name: "Bevda - Prod lead"
+    email: "bv@gmail.com"
+  onCallSupport:
+    - 99999997
+    - 88888889
