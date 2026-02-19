@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to ABC Bank Account - Developer API"
   contactDetails:
     name: "Vedant - Developer"
-    email: "vk@gmail.com"
+    email: "{cipher}a4a5d974100c7c98ee14d6d489f9a140a73afb482c321b7b83fbd0bff9c08df9"
   onCallSupport:
     - 99999999
     - 88888888
