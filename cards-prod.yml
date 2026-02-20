@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+cards:
   message: "Welcome to ABC Bank Cards - Prod API"
   contactDetails:
     name: "Bevda - Prod lead"
