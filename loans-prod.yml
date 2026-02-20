@@ -1,12 +1,7 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod"
-
 build:
   version: "1.0"
 
-accounts:
+loans:
   message: "Welcome to ABC Bank Loans - Prod API"
   contactDetails:
     name: "Bevda - Prod lead"
